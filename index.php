@@ -1,7 +1,9 @@
 <?php 
 
 //inclure la classe Cat
+include "Animal.php";
 include "Cat.php";
+
 
 //instancier l'objet de la classe cat
 
