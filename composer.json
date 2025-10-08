@@ -2,7 +2,7 @@
     "name": "minei/bts2026_poo",
     "autoload": {
         "psr-4": {
-            "Minei\\Bts2026Poo\\": "src/"
+            "Poo\\": "src/"
         }
     },
     "authors": [

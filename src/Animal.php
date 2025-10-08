@@ -1,5 +1,7 @@
 <?php
 
+namespace Poo;
+
  class Animal {
     public string $name;
       //public int $age;

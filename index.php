@@ -1,12 +1,12 @@
 <?php 
 
-//inclure la classe Cat
-include "Animal.php";
-include "Cat.php";
-include "Dog.php";
+//inclure la classe 
+require __DIR__ . '/vendor/autoload.php';
 
 
 //instancier l'objet de la classe cat
+
+use Poo\spa\Cat;
 
 $monPremierChat = new Cat("Garfield");
 $monPremierChat -> setAge(30);
