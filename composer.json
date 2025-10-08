@@ -1,0 +1,15 @@
+{
+    "name": "minei/bts2026_poo",
+    "autoload": {
+        "psr-4": {
+            "Minei\\Bts2026Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Florent Mineiro",
+            "email": "florent.mineiro.93@gmail.com"
+        }
+    ],
+    "require": {}
+}
