@@ -7,6 +7,7 @@ require __DIR__ . '/vendor/autoload.php';
 //instancier l'objet de la classe cat
 
 use Poo\spa\Cat;
+use Poo\spa\Dog;
 
 $monPremierChat = new Cat("Garfield");
 $monPremierChat -> setAge(30);
